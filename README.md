@@ -34,9 +34,9 @@ npm run build
 
 编辑：点击有链接的蓝色字段 =>	弹出弹窗，编辑链接，点击保存	=>	所点击的蓝色字段链接编辑成功
 
-![image-20210417183039007](/Users/zhuwenyan/study/editor/img/image-20210417183039007.png)
+![image-20210417183039007](https://github.com/zwy942652315/editor/blob/master/img/image-20210417183039007.png)
 
-![link](/Users/zhuwenyan/study/editor/img/link.png)
+![link](https://github.com/zwy942652315/editor/blob/master/img/link.png)
 
 ## 实现过程
 
